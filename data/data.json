@@ -1,0 +1,22 @@
+{
+  "friends": [{
+      "title": "Best friend",
+      "name": "Shyamlal Jat",
+      "shortname": "shyam",
+      "summary": "intro",
+      "description": "<p> shyam was born in bhainsawa </p>"
+    },
+    {
+      "title": "class friend",
+      "name": "Jagdish Choudhary",
+      "shortname": "jaggu",
+      "summary": "intro",
+      "description": "<p> jaggu was born in bhainsawa </p>"
+    },{
+      "title": "Me",
+      "name": "Meghraj Jat",
+      "shortname": "meghi",
+      "summary": "intro",
+      "description": "<p> i was born in bhainsawa </p>"
+  }]
+}
