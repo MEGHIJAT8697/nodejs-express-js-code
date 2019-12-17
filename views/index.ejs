@@ -48,6 +48,9 @@
     </nav>
 </header>
 <article class="friendslist <% if (pageID=='home'){ %> jumbotron hidden-xs<% } %>">
+<div class="spinner-grow text-primary" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
     <div class="container">
         <div class="row">
             <% friends.forEach(function(item) { %>
